@@ -1,0 +1,1 @@
+captura de pantalla de spring boot api de preguntas y respuestas
